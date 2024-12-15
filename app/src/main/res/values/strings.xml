@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjekUas</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_masuk">MasukActivity</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+</resources>
